@@ -6,7 +6,7 @@ A sleek and responsive cryptocurrency tracker web app built with **React**, **Ta
 
 ## 🌐 Live Demo
 
-[🔗 View Live Site](https://your-live-site-link.com) <!-- Replace this with your deployed link -->
+[🔗 View Live Site](https://crypto-tracker-rho-nine.vercel.app/) <!-- Replace this with your deployed link -->
 
 ---
 
